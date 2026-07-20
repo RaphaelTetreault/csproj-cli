@@ -7,7 +7,7 @@ A command-line interface to update C# .csproj properties.
 
 ### Required
 
-1. `<path>`: Required. The path (file or directory) of the .csproj file.
+1. `path`: Required. The path (file or directory) of the .csproj file.
 2. `action`: Required. The action to perform.
 
 ### Actions
